@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "419296541158",
+    "project_id": "gcm-test-74247"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419296541158:android:3afd793f53286c49",
+        "android_client_info": {
+          "package_name": "com.example.duddu.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_NUOdKC0oUGvEonNBtmMpkViJGk2w53M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
